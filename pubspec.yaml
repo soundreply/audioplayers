@@ -1,6 +1,6 @@
 name: audioplayers
 description: A flutter plugin to play multiple audio files simultaneously
-version: 0.16.1
+version: 0.16.2
 homepage: https://github.com/luanpotter/audioplayer
 
 flutter:
@@ -19,7 +19,7 @@ flutter:
 
 dependencies:
   uuid: ^2.0.4
-  path_provider: ^1.5.1
+  path_provider: ^1.6.18
   flutter:
     sdk: flutter
   flutter_web_plugins:
